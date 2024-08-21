@@ -9,4 +9,6 @@ cd HackersNexus
 
 bash setup.sh 
 
+
+
 python main.py 
